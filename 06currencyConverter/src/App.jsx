@@ -29,7 +29,7 @@ function App() {
         <div
             className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
             style={{
-                backgroundImage: `url('https://img.freepik.com/free-photo/indian-city-buildings-scene_23-2151823023.jpg?t=st=1730560782~exp=1730564382~hmac=f7719c50e7bd6ec55892aa907f73e245340e5bed49717bd2bdd8b2dc30aaebbf&w=1060')`,
+                backgroundImage: `url('https://img.freepik.com/free-photo/illustration-anime-city_23-2151779742.jpg?t=st=1730568861~exp=1730572461~hmac=d5d941d231c0483533fb7f007e44b0cb118df5bd1e678dfb5290fc86db8cb7f2&w=996')`,
             }}
         >
             <div className="w-full">
