@@ -1,1 +1,1 @@
-Learning react fro YouTube
+Learning react from YouTube
